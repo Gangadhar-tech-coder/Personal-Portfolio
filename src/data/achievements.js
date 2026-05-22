@@ -1,0 +1,118 @@
+export const certifications = [
+  {
+    id: 1,
+    title: "Python for Data Science",
+    issuer: "NPTEL – IIT Madras",
+    badge: "Elite",
+    icon: "🏅",
+    color: "from-amber-500 to-yellow-400",
+  },
+  {
+    id: 2,
+    title: "Problem Solving in C",
+    issuer: "NPTEL – IIT Kharagpur",
+    badge: "IIT",
+    icon: "📜",
+    color: "from-blue-500 to-cyan-400",
+  },
+  {
+    id: 3,
+    title: "Azure AI Fundamentals",
+    issuer: "Microsoft",
+    badge: "Microsoft",
+    icon: "☁️",
+    color: "from-sky-500 to-blue-400",
+  },
+  {
+    id: 4,
+    title: "AI for Everyone",
+    issuer: "Microsoft (NCVET recognized)",
+    badge: "Microsoft",
+    icon: "🤖",
+    color: "from-violet-500 to-purple-400",
+  },
+  {
+    id: 5,
+    title: "Machine Learning Terminology and Process",
+    issuer: "AWS",
+    badge: "AWS",
+    icon: "⚡",
+    color: "from-orange-500 to-amber-400",
+  },
+  {
+    id: 6,
+    title: "Data Visualization using Python",
+    issuer: "Aimr Edu LLP",
+    badge: "Certificate",
+    icon: "📊",
+    color: "from-emerald-500 to-teal-400",
+  },
+  {
+    id: 7,
+    title: "Machine Learning Intern Certificate",
+    issuer: "Unified Mentor",
+    badge: "Internship",
+    icon: "🎓",
+    color: "from-pink-500 to-rose-400",
+  },
+  {
+    id: 8,
+    title: "Innovation, Design and Entrepreneurship",
+    issuer: "Ministry of Education Innovation Cell & AICTE",
+    badge: "IDE",
+    icon: "💡",
+    color: "from-yellow-500 to-amber-400",
+  },
+];
+
+export const hackathons = [
+  {
+    id: 1,
+    title: "Adobe Hackathon",
+    role: "Participant",
+    icon: "🏆",
+    color: "from-red-500 to-rose-400",
+  },
+  {
+    id: 2,
+    title: "Amazon ML Challenge",
+    role: "Participant",
+    icon: "🏆",
+    color: "from-amber-500 to-orange-400",
+  },
+  {
+    id: 3,
+    title: "Tata Imagination Challenge",
+    role: "Participant",
+    icon: "🏆",
+    color: "from-blue-500 to-indigo-400",
+  },
+  {
+    id: 4,
+    title: "ENCODE-25 (Inter-college Hackathon at MREC)",
+    role: "Participant",
+    icon: "🏆",
+    color: "from-emerald-500 to-green-400",
+  },
+  {
+    id: 5,
+    title: "Novus Hackathon",
+    role: "Participant",
+    icon: "🏆",
+    color: "from-purple-500 to-indigo-400",
+  },
+  {
+    id: 6,
+    title: "IDE Bootcamp",
+    role: "Participant",
+    icon: "🚀",
+    color: "from-cyan-500 to-blue-400",
+  },
+];
+
+export const achievementStats = [
+  { label: "Certifications", value: 8, icon: "📜" },
+  { label: "Hackathons", value: 6, icon: "🏆" },
+  { label: "Internships", value: 3, icon: "💼" },
+  { label: "ML Accuracy", value: 92, suffix: "%", icon: "🎯" },
+];

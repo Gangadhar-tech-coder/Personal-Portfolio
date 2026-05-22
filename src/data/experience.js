@@ -1,0 +1,45 @@
+export const experiences = [
+  {
+    id: 1,
+    role: "Research Assistant – Machine Learning",
+    company: "Under Prof. Raghunath",
+    type: "Remote",
+    duration: "Dec 2025 – Present",
+    current: true,
+    description: [
+      "Hybrid Random Projection optimization for ML feature reduction",
+      "Achieved 50–90% feature reduction while maintaining 92%+ accuracy",
+      "Benchmarked classification algorithms with precision/recall/F1 metrics",
+    ],
+    tech: ["Python", "Scikit-learn", "ML", "Research"],
+    gradient: "from-blue-500 to-cyan-400",
+  },
+  {
+    id: 2,
+    role: "Python Developer Intern & Team Lead",
+    company: "Wexdi Software Solutions",
+    type: "Remote",
+    duration: "Jul 2025 – Dec 2025",
+    current: false,
+    description: [
+      "Led 4-member team delivering Django solutions for a US-based client",
+      "Primary technical contact in client meetings; translated business requirements to dev tasks",
+    ],
+    tech: ["Python", "Django", "Team Lead", "REST APIs"],
+    gradient: "from-violet-500 to-purple-400",
+  },
+  {
+    id: 3,
+    role: "Intern & Technical Lead",
+    company: "TEAM MREC (Tech Community)",
+    type: "On-site",
+    duration: "Sep 2024 – Present",
+    current: true,
+    description: [
+      "Planned and conducted community tech events",
+      "Guided juniors in technology initiatives and development activities",
+    ],
+    tech: ["Leadership", "Event Planning", "Mentoring"],
+    gradient: "from-emerald-500 to-teal-400",
+  },
+];
