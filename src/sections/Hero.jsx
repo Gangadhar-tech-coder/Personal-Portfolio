@@ -287,6 +287,7 @@ export default function Hero() {
             >
               <a
                 href={personalInfo.links.resume}
+                download="Gangadhar_feb.pdf"
                 className="group flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-blue-500 to-violet-600 text-white font-semibold rounded-xl hover:shadow-glow-md transition-shadow duration-300 hover:scale-105"
               >
                 <Download size={18} />

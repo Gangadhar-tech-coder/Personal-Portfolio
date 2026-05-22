@@ -24,7 +24,7 @@ export const personalInfo = {
     linkedin: "https://www.linkedin.com/in/gangadhar-pulicharla-a5bb3132a",
     instagram: "https://www.instagram.com/gangadhar._786",
     portfolio: "https://personal-portfolio-gitjn87p9-gangadhar-tech-coders-projects.vercel.app",
-    resume: "#",
+    resume: "/Gangadhar_feb.pdf",
     certificates: "https://drive.google.com/drive/folders/11CbO8HMq0IMMQgzjqyKbL24lLNs6FO3T",
   },
   quickFacts: ["Python", "Django", "AI/ML", "Team Lead", "Researcher"],
